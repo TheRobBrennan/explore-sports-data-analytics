@@ -4,6 +4,14 @@ This directory contains example data files to get started with popular sports AP
 
 ## Example data
 
+The below video fuels me with excitement and energy - captured from my seat to watch the Seattle Kraken in Round 2 of the Stanley Cup playoffs in only their second season 🏒
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5rr6ZxrYYdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+You can view the shot chart from this game, as well as other games from the 2022-2023 NHL season, at [https://nhl-shot-chart-on-vercel-with-fastapi.vercel.app/nhl-schedule?gameId=2022030236](https://nhl-shot-chart-on-vercel-with-fastapi.vercel.app/nhl-schedule?gameId=2022030236) - with source code freely available in my GitHub repo at [https://github.com/TheRobBrennan/nhl-shot-chart-on-vercel-with-fastapi](https://github.com/TheRobBrennan/nhl-shot-chart-on-vercel-with-fastapi)
+
+![](/assets/screenshot-nhl-shot-chart-on-vercel.png)
+
 ### Major League Baseball
 
 #### Games
