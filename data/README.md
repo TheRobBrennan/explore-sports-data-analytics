@@ -15,3 +15,21 @@ See [https://www.mlb.com/gameday/padres-vs-mariners/2023/08/09/717055/final/summ
 Example files for this game include:
 
 - [mlb-717055-20230809-san-diego-padres-vs-seattle-mariners.json](./mlb-717055-20230809-san-diego-padres-vs-seattle-mariners.json) - GET https://ws.statsapi.mlb.com/api/v1.1/game/717055/feed/live?language=en
+
+### National Football League
+
+#### Games
+
+##### 2023.08.10 - [PRE-SEASON] Minnesota Vikings vs Seattle Seahawks
+
+Example URLs for this game include:
+
+- ESPN game details - [http://cdn.espn.com/nfl/boxscore/\_/gameId/401550740](http://cdn.espn.com/nfl/boxscore/_/gameId/401550740)
+- NFL game details - [https://www.nfl.com/games/vikings-at-seahawks-2023-pre-1](https://www.nfl.com/games/vikings-at-seahawks-2023-pre-1)
+
+Example files for this game include:
+
+- ESPN
+  - [./espn-nfl-401550740-20230810-minnesota-vikings-vs-seattle-seahawks.json](./espn-nfl-401550740-20230810-minnesota-vikings-vs-seattle-seahawks.json) - GET [https://cdn.espn.com/core/nfl/playbyplay?xhr=1&gameId=401550740](https://cdn.espn.com/core/nfl/playbyplay?xhr=1&gameId=401550740)
+- NFL
+  - []() - GET []()
