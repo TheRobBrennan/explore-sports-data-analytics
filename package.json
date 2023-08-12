@@ -1,0 +1,19 @@
+{
+  "name": "explore-sports-data-analytics",
+  "version": "0.0.0",
+  "description": "This project explores working with a variety of APIs for sports data analysis and visualization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRobBrennan/explore-sports-data-analytics.git"
+  },
+  "author": "Rob Brennan <rob@therobbrennan.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheRobBrennan/explore-sports-data-analytics/issues"
+  },
+  "homepage": "https://github.com/TheRobBrennan/explore-sports-data-analytics#readme"
+}
