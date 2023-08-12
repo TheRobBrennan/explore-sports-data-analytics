@@ -49,7 +49,7 @@ Example files for this game include:
 
 - ESPN
   - GET [https://cdn.espn.com/core/nfl/playbyplay?xhr=1&gameId=401550740](https://cdn.espn.com/core/nfl/playbyplay?xhr=1&gameId=401550740)
-    - [./espn-nfl-401550740-20230810-minnesota-vikings-vs-seattle-seahawks.json](./espn-nfl-401550740-20230810-minnesota-vikings-vs-seattle-seahawks.json) -
+    - [./nfl-espn-401550740-20230810-minnesota-vikings-vs-seattle-seahawks.json](./nfl-espn-401550740-20230810-minnesota-vikings-vs-seattle-seahawks.json)
 - NFL
   - GET [https://api.nfl.com/experience/v1/gamedetails/96bf38fb-0976-11ee-ae17-58f2e1e72efb](https://api.nfl.com/experience/v1/gamedetails/96bf38fb-0976-11ee-ae17-58f2e1e72efb)
     - [./nfl-96bf38fb-0976-11ee-ae17-58f2e1e72efb-20230809-san-diego-padres-vs-seattle-mariners.json](./nfl-96bf38fb-0976-11ee-ae17-58f2e1e72efb-20230809-san-diego-padres-vs-seattle-mariners.json)
