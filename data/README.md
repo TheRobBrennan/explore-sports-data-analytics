@@ -34,6 +34,24 @@ Example files for this game include:
 
 #### Games
 
+##### 2023.09.07 - Detroit Lions vs Kansas City Chiefs
+
+Example URLs for this game include:
+
+- ESPN game details
+  - [http://cdn.espn.com/nfl/boxscore/\_/gameId/401547353](http://cdn.espn.com/nfl/boxscore/_/gameId/401547353)
+- NFL game details
+  - [https://www.nfl.com/games/lions-at-chiefs-2023-reg-1](https://www.nfl.com/games/lions-at-chiefs-2023-reg-1)
+
+Example files for this game include:
+
+- ESPN
+  - GET [https://cdn.espn.com/core/nfl/playbyplay?xhr=1&gameId=401547353](https://cdn.espn.com/core/nfl/playbyplay?xhr=1&gameId=401547353)
+    - [./nfl-espn-401547353-20230907-detroit-lions-vs-kansas-city-chiefs.json](./nfl-espn-401547353-20230907-detroit-lions-vs-kansas-city-chiefs.json)
+- NFL
+  - GET [https://api.nfl.com/experience/v1/gamedetails/b078a412-f053-11ed-b4a7-bab79e4492fa](https://api.nfl.com/experience/v1/gamedetails/b078a412-f053-11ed-b4a7-bab79e4492fa)
+    - [./nfl-b078a412-f053-11ed-b4a7-bab79e4492fa-20230907-detroit-lions-vs-kansas-city-chiefs.json](./nfl-b078a412-f053-11ed-b4a7-bab79e4492fa-20230907-detroit-lions-vs-kansas-city-chiefs.json)
+
 ##### 2023.08.10 - [PRE-SEASON] Minnesota Vikings vs Seattle Seahawks
 
 Example URLs for this game include:
@@ -50,7 +68,7 @@ Example files for this game include:
     - [./nfl-espn-401550740-20230810-minnesota-vikings-vs-seattle-seahawks.json](./nfl-espn-401550740-20230810-minnesota-vikings-vs-seattle-seahawks.json)
 - NFL
   - GET [https://api.nfl.com/experience/v1/gamedetails/96bf38fb-0976-11ee-ae17-58f2e1e72efb](https://api.nfl.com/experience/v1/gamedetails/96bf38fb-0976-11ee-ae17-58f2e1e72efb)
-    - [./nfl-96bf38fb-0976-11ee-ae17-58f2e1e72efb-20230809-san-diego-padres-vs-seattle-mariners.json](./nfl-96bf38fb-0976-11ee-ae17-58f2e1e72efb-20230809-san-diego-padres-vs-seattle-mariners.json)
+    - [./nfl-96bf38fb-0976-11ee-ae17-58f2e1e72efb-20230809-minnesota-vikings-vs-seattle-seahawks.json](./nfl-96bf38fb-0976-11ee-ae17-58f2e1e72efb-20230809-minnesota-vikings-vs-seattle-seahawks.json)
 
 ### National Hockey League
 
