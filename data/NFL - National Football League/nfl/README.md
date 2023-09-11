@@ -1,6 +1,6 @@
 # Welcome
 
-This directory contains example data files to explore [MLB](https://www.mlb.com) ([Major League Baseball](https://www.mlb.com)) data.
+This directory contains example data files to explore [NFL](https://www.nfl.com) ([National Football League](https://www.nfl.com)) data.
 
 ## NFL
 
