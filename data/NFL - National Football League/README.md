@@ -4,7 +4,10 @@ This directory contains example data files to explore [NFL](https://www.nfl.com)
 
 ## National Football League (NFL)
 
-This project contains the following sources for [NFL](https://www.nfl.com) data:
+This project contains data from the following sources for the [NFL](https://www.nfl.com):
+
+- NFL
+- ESPN
 
 ### NFL
 
