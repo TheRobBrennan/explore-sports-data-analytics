@@ -14,19 +14,4 @@ Please review the overview of sample data locally available for the National Foo
 
 ### National Hockey League
 
-#### Games
-
-##### 2023.05.13 - Dallas Stars vs Seattle Kraken - Round 2 Game 6 of the 2023 Stanley Cup Playoffs
-
-Example URLs for this game include:
-
-- NHL GameCenter game details
-  - [https://www.nhl.com/gamecenter/dal-vs-sea/2023/05/13/2022030236#game=2022030236,game_state=final](https://www.nhl.com/gamecenter/dal-vs-sea/2023/05/13/2022030236#game=2022030236,game_state=final)
-- YouTube video for the Kraken intro in this historic event
-  - [https://youtu.be/5rr6ZxrYYdc](https://youtu.be/5rr6ZxrYYdc)
-
-Example files for this game include:
-
-- NHL
-  - GET [https://statsapi.web.nhl.com/api/v1/game/2022030236/feed/live?site=en_nhl](https://statsapi.web.nhl.com/api/v1/game/2022030236/feed/live?site=en_nhl)
-    - [nhl-2022030236-20230513-dallas-stars-vs-seattle-kraken-stanley-cup-playoffs-round-2-game-6.json](./nhl-2022030236-20230513-dallas-stars-vs-seattle-kraken-stanley-cup-playoffs-round-2-game-6.json)
+Please review the overview of sample data locally available for the National Hockey League (NHL) within this project at [./NHL%20-%20National%20Hockey%20League/README.md](./NHL%20-%20National%20Hockey%20League/README.md).
