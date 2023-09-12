@@ -4,7 +4,7 @@ This directory contains example data files to explore [NFL](https://www.nfl.com)
 
 ## ESPN
 
-Example data from the publicly available ESPN API:
+Example data is contained in files matching the pattern `YYYYMMDD-visiting-vs-home-<NFL_GAME_ID>.json` from the publicly available ESPN API:
 
 - Data from [https://www.espn.com/nfl/](https://www.espn.com/nfl/)
 
@@ -14,8 +14,6 @@ Example data from the publicly available ESPN API:
 
 Example URLs for this API include:
 
-- ESPN game details
-  - [http://cdn.espn.com/nfl/boxscore/\_/gameId/401547353](http://cdn.espn.com/nfl/boxscore/_/gameId/401547353)
 - ESPN play-by-play details
-  - GET [https://cdn.espn.com/core/nfl/playbyplay?xhr=1&gameId=401547353](https://cdn.espn.com/core/nfl/playbyplay?xhr=1&gameId=401547353)
-    - [./nfl-espn-401547353-20230907-detroit-lions-vs-kansas-city-chiefs.json](./nfl-espn-401547353-20230907-detroit-lions-vs-kansas-city-chiefs.json)
+  - GET [https://cdn.espn.com/core/nfl/playbyplay?xhr=1&gameId=401547408](https://cdn.espn.com/core/nfl/playbyplay?xhr=1&gameId=401547408)
+    - [./20230910-LAR-vs-SEA-401547408.json](./20230910-LAR-vs-SEA-401547408.json)
