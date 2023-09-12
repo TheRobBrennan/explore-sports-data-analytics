@@ -13,13 +13,4 @@ For extra credit, if you want to see some of the exploration I'm doing with R an
 Example data is contained in files matching the pattern `YYYYMMDD-visiting-vs-home-<NHL_GAME_ID>.json` from the NHL API:
 
 - GET [https://statsapi.web.nhl.com/api/v1/game/2022030236/feed/live?site=en_nhl](https://statsapi.web.nhl.com/api/v1/game/2022030236/feed/live?site=en_nhl)
-
   - [./20230513-DAL-vs-SEA-2022030236.json](./20230513-DAL-vs-SEA-2022030236.json)
-
-### Additional URLs
-
-Example URLs to work with this API include:
-
-- NHL GameCenter game details
-
-  - [https://www.nhl.com/gamecenter/dal-vs-sea/2023/05/13/2022030236#game=2022030236,game_state=final](https://www.nhl.com/gamecenter/dal-vs-sea/2023/05/13/2022030236#game=2022030236,game_state=final)
