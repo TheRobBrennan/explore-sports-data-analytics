@@ -4,7 +4,7 @@ This directory contains example data files to explore [NFL](https://www.nfl.com)
 
 ## NFL
 
-Example data from the publicly available but protected NFL API:
+Example data is contained in files matching the pattern `nfl-<NFL_GAME_ID>-YYYYMMDD-visiting-vs-home.json` from the publicly available but protected NFL API:
 
 - Protected data from [https://www.nfl.com](https://www.nfl.com)
 
