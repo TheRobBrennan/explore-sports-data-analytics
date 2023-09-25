@@ -8,6 +8,7 @@ const EmbeddedContent = () => {
   const game2 = "https://nhl-shot-chart-on-vercel-with-fastapi.vercel.app/?gameId=2023010024"
 
   // Function to handle the loading of the iframe
+  // @ts-ignore
   const handleIframeLoad = (iframeRef) => {
     const iframe = iframeRef.current;
     const doc = iframe.contentDocument || iframe.contentWindow.document;
