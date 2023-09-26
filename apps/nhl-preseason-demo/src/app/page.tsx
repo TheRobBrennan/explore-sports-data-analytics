@@ -6,8 +6,8 @@ const EmbeddedContent = () => {
   const game2Url = "https://nhl-shot-chart-on-vercel-with-fastapi.vercel.app/?gameId=2023010024";
 
   const [dimensions, setDimensions] = useState({
-    height: window.innerWidth * (9 / 16),
-    width: window.innerWidth
+    height: 0,
+    width: 0
   });
 
   const updateDimensions = () => {
@@ -18,8 +18,12 @@ const EmbeddedContent = () => {
   };
 
   useEffect(() => {
-    window.addEventListener("resize", updateDimensions);
-    return () => window.removeEventListener("resize", updateDimensions);
+    // Ensure window is defined
+    if (typeof window !== 'undefined') {
+      updateDimensions(); // Initial update
+      window.addEventListener("resize", updateDimensions);
+      return () => window.removeEventListener("resize", updateDimensions);
+    }
   }, []);
 
   return (
@@ -27,12 +31,12 @@ const EmbeddedContent = () => {
       <embed
         src={game1Url}
         type="text/html"
-        style={{ width: dimensions.width, height: dimensions.height }}
+        style={{ width: `${dimensions.width}px`, height: `${dimensions.height}px` }}
       />
       <embed
         src={game2Url}
         type="text/html"
-        style={{ width: dimensions.width, height: dimensions.height }}
+        style={{ width: `${dimensions.width}px`, height: `${dimensions.height}px` }}
       />
     </div>
   );
