@@ -32,16 +32,16 @@ const EmbeddedContent = () => {
         ref={iframeRef1}
         src={game1}
         onLoad={() => handleIframeLoad(iframeRef1)}
-        width="100%"
-        height="100%"
+        width="1200"
+        height="600"
         title="Game 1"
       />
       <iframe
         ref={iframeRef2}
         src={game2}
         onLoad={() => handleIframeLoad(iframeRef2)}
-        width="100%"
-        height="100%"
+        width="1200"
+        height="600"
         title="Game 2"
       />
     </div>
