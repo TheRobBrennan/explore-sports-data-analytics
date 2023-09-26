@@ -9,12 +9,12 @@ const EmbeddedContent = () => {
       <embed
         src={game1Url}
         type="text/html"
-        style={{ width: '100vw', height: '100vh' }}>
+        className="w-full h-full sm:w-9/10 sm:h-9/10">
       </embed>
       <embed
         src={game2Url}
         type="text/html"
-        style={{ width: '100vw', height: '100vh' }}>
+        className="w-full h-full sm:w-9/10 sm:h-9/10">
       </embed>
     </div>
   );
