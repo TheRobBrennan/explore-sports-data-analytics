@@ -1,0 +1,215 @@
+[
+  {
+    "created": 1722018786000,
+    "updated": 1723971258000,
+    "date": 1723939200000,
+    "timestamp": 1723957248000,
+    "first_half_start": 1723939808000,
+    "first_half_end": 1723942608000,
+    "second_half_start": 1723943559000,
+    "second_half_end": 1723946268000,
+    "extra_first_half_start": null,
+    "extra_first_half_end": null,
+    "extra_second_half_start": null,
+    "extra_second_half_end": null,
+    "minute_display": "90'+1'",
+    "is_final": true,
+    "is_aggregate": false,
+    "id": 9083869,
+    "opta_id": 289017421,
+    "sportec_id": "MLS-MAT-0005Q5",
+    "elias_id": null,
+    "game_id": "289017421",
+    "season_id": 1059,
+    "previous_match_id": null,
+    "venue_id": 67,
+    "venue_neutral": null,
+    "attendance": 19643,
+    "weather": null,
+    "date_tbd": false,
+    "time_tbd": false,
+    "type": "Cup Short",
+    "result_type": "NormalResult",
+    "result_reason": null,
+    "coverage_detail": null,
+    "period": "FullTime",
+    "minute": 91,
+    "first_half_minute": 47,
+    "second_half_minute": 91,
+    "extra_first_half_minute": null,
+    "extra_second_half_minute": null,
+    "round_name": "Quarter-Finals",
+    "round_number": 6,
+    "round_group": null,
+    "leg": null,
+    "matchday": 6,
+    "has_winner": true,
+    "postponed": false,
+    "abandoned": false,
+    "var_status": null,
+    "var_reason": null,
+    "venue": {
+      "created": 1602184680000,
+      "updated": 1652192894000,
+      "id": 67,
+      "opta_id": 7425,
+      "sportec_id": "MLS-STA-00000S",
+      "name": "Lumen Field",
+      "city": "Seattle, WA",
+      "country": "USA",
+      "capacity": 35700,
+      "turf": "grass",
+      "postal_code": "98134",
+      "street_address": "800 Occidental Ave",
+      "phone": null,
+      "fax": null,
+      "email": null
+    },
+    "home_club_match": {
+      "created": 1722020823000,
+      "updated": 1723957254000,
+      "formation_matrix": [
+        [
+          1
+        ],
+        [
+          2,
+          5,
+          6,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          7,
+          10,
+          11
+        ],
+        [
+          9
+        ]
+      ],
+      "current_formation_matrix": [
+        [
+          1
+        ],
+        [
+          2,
+          5,
+          6,
+          3
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          7,
+          10,
+          11
+        ],
+        [
+          9
+        ]
+      ],
+      "id": 17728486,
+      "match_id": 9083869,
+      "club_season_id": 3844678,
+      "club_kit_id": null,
+      "side": "home",
+      "formation": "4231",
+      "current_formation": "4231",
+      "first_penalty_kick": null,
+      "score": 0,
+      "shootout_score": null,
+      "extra_score": null,
+      "is_winner": false,
+      "is_loser": true,
+      "is_series_winner": null,
+      "is_series_loser": null
+    },
+    "home_club": {
+      "created": 1602184675000,
+      "updated": 1602184675000,
+      "id": 23,
+      "opta_id": 3500,
+      "sportec_id": "MLS-CLU-00000S",
+      "name": "Seattle Sounders FC",
+      "abbreviation": "SEA",
+      "year_founded": 2007
+    },
+    "away_club_match": {
+      "created": 1722020823000,
+      "updated": 1723957254000,
+      "formation_matrix": [
+        [
+          1
+        ],
+        [
+          6,
+          5,
+          4
+        ],
+        [
+          2,
+          7,
+          8,
+          3
+        ],
+        [
+          10,
+          9,
+          11
+        ]
+      ],
+      "current_formation_matrix": [
+        [
+          1
+        ],
+        [
+          6,
+          5,
+          4
+        ],
+        [
+          2,
+          7,
+          8,
+          3
+        ],
+        [
+          10,
+          9,
+          11
+        ]
+      ],
+      "id": 17728487,
+      "match_id": 9083869,
+      "club_season_id": 3844680,
+      "club_kit_id": null,
+      "side": "away",
+      "formation": "343",
+      "current_formation": "343",
+      "first_penalty_kick": null,
+      "score": 3,
+      "shootout_score": null,
+      "extra_score": null,
+      "is_winner": true,
+      "is_loser": false,
+      "is_series_winner": null,
+      "is_series_loser": null
+    },
+    "away_club": {
+      "created": 1602184675000,
+      "updated": 1602184675000,
+      "id": 31,
+      "opta_id": 11690,
+      "sportec_id": "MLS-CLU-000001",
+      "name": "Los Angeles Football Club",
+      "abbreviation": "LAFC",
+      "year_founded": 2018
+    }
+  }
+]
