@@ -1,0 +1,288 @@
+{
+  "previousMatches": [
+    {
+      "optaId": 289017421,
+      "slug": "seavslafc-08-17-2024",
+      "leagueMatchTitle": "",
+      "home": {
+        "optaId": 3500,
+        "fullName": "Seattle Sounders FC",
+        "slug": "seattle-sounders-fc",
+        "shortName": "Seattle",
+        "abbreviation": "SEA",
+        "backgroundColor": "#2dc84d",
+        "logoBWSlug": "webcomp_d48039f4-62b6-445a-bcb7-fe2f76e003f2",
+        "logoColorSlug": "webcomp_a5251f90-8f18-4517-b3d3-5aa5f66696dc",
+        "logoColorUrl": "https://images.mlssoccer.com/image/upload/{formatInstructions}/v1702319240/assets/sea/logos/SEA2023-Full_Color-480x480_fk6mpu.png",
+        "crestColorSlug": "webcomp_54004f6d-5a0e-45ba-84b7-2333f6802125"
+      },
+      "away": {
+        "optaId": 11690,
+        "fullName": "Los Angeles Football Club",
+        "slug": "los-angeles-football-club",
+        "shortName": "LAFC",
+        "abbreviation": "LAFC",
+        "backgroundColor": "#212121",
+        "logoBWSlug": "webcomp_1a2ee9e1-cac2-4f2b-b771-620376f002ee",
+        "logoColorSlug": "webcomp_6f982df3-b4a5-44f2-a950-a2a3148a914c",
+        "logoColorUrl": "https://images.mlssoccer.com/image/upload/{formatInstructions}/v1620998598/assets/logos/LAFC-Logo-480px.png",
+        "crestColorSlug": "webcomp_d81f7b0b-8c59-49ce-8c59-ee5afe10aa03"
+      },
+      "resultType": "NormalResult",
+      "venue": {
+        "venueOptaId": "7425",
+        "backgroundImageSlug": "",
+        "name": "Lumen Field",
+        "city": "Seattle, WA"
+      },
+      "season": {
+        "slug": "leagues-cup-2024",
+        "optaId": 2024,
+        "competitionId": 1209,
+        "name": "2024"
+      },
+      "competition": {
+        "optaId": 1209,
+        "name": "Leagues Cup",
+        "slug": "leagues-cup",
+        "shortName": "Leagues Cup",
+        "matchType": "",
+        "logoLight": {
+          "slug": ""
+        },
+        "logoDark": {
+          "slug": ""
+        },
+        "blockHeaderName": "",
+        "mgmId": "0",
+        "playerHeadshotThumbnailField": ""
+      },
+      "broadcasters": [],
+      "sponsorImage": {},
+      "matchDate": "2024-08-18T00:00:00.0000000Z",
+      "thirdPartyTickets": {
+        "url": "https://www.ticketmaster.com/event/0F00606CA1E01B23",
+        "openInNewTab": true,
+        "isVisible": false
+      },
+      "period": "FullTime",
+      "winnerOptaId": 11690,
+      "homeScore": 0,
+      "awayScore": 3,
+      "tags": [],
+      "aggregate": {
+        "aggregate": "",
+        "aggregateShort": "",
+        "aggregateAbbr": "",
+        "date": "2024-08-18T00:00:00.0000000Z"
+      },
+      "homeClubBroadcasters": [],
+      "awayClubBroadcasters": [],
+      "clubBroadcasters": [],
+      "isTimeTbd": false,
+      "mgmId": "",
+      "appleStreamURL": "https://tv.apple.com/sporting-event/seattle-sounders-fc-vs-los-angeles-football-club/umc.cse.6miwr1f1e07e29m6xxmmbxlxm?itsct=s_mls_partner_gp&itscg=80320",
+      "appleSubscriptionTier": "",
+      "appleAdvertisementCategory": "",
+      "roundName": "Quarter-Finals",
+      "competitionPhase": "",
+      "homeClubRank": "13",
+      "awayClubRank": "15",
+      "roundNumber": 6,
+      "roundGroup": "",
+      "matchDay": "6",
+      "delayedMatch": false
+    },
+    {
+      "optaId": 2415211,
+      "slug": "seavslafc-07-20-2024",
+      "leagueMatchTitle": "",
+      "home": {
+        "optaId": 3500,
+        "fullName": "Seattle Sounders FC",
+        "slug": "seattle-sounders-fc",
+        "shortName": "Seattle",
+        "abbreviation": "SEA",
+        "backgroundColor": "#2dc84d",
+        "logoBWSlug": "webcomp_d48039f4-62b6-445a-bcb7-fe2f76e003f2",
+        "logoColorSlug": "webcomp_a5251f90-8f18-4517-b3d3-5aa5f66696dc",
+        "logoColorUrl": "https://images.mlssoccer.com/image/upload/{formatInstructions}/v1702319240/assets/sea/logos/SEA2023-Full_Color-480x480_fk6mpu.png",
+        "crestColorSlug": "webcomp_54004f6d-5a0e-45ba-84b7-2333f6802125"
+      },
+      "away": {
+        "optaId": 11690,
+        "fullName": "Los Angeles Football Club",
+        "slug": "los-angeles-football-club",
+        "shortName": "LAFC",
+        "abbreviation": "LAFC",
+        "backgroundColor": "#212121",
+        "logoBWSlug": "webcomp_1a2ee9e1-cac2-4f2b-b771-620376f002ee",
+        "logoColorSlug": "webcomp_6f982df3-b4a5-44f2-a950-a2a3148a914c",
+        "logoColorUrl": "https://images.mlssoccer.com/image/upload/{formatInstructions}/v1620998598/assets/logos/LAFC-Logo-480px.png",
+        "crestColorSlug": "webcomp_d81f7b0b-8c59-49ce-8c59-ee5afe10aa03"
+      },
+      "resultType": "NormalResult",
+      "venue": {
+        "venueOptaId": "7425",
+        "backgroundImageSlug": "",
+        "name": "Lumen Field",
+        "city": "Seattle, WA"
+      },
+      "season": {
+        "slug": "us-major-league-soccer-season-2024-2025",
+        "optaId": 2024,
+        "competitionId": 98,
+        "name": "Season 2024/2025"
+      },
+      "competition": {
+        "optaId": 98,
+        "name": "MLS Regular Season",
+        "slug": "mls-regular-season",
+        "shortName": "Regular Season",
+        "matchType": "Regular",
+        "logoLight": {
+          "slug": ""
+        },
+        "logoDark": {
+          "slug": ""
+        },
+        "blockHeaderName": "",
+        "mgmId": "",
+        "playerHeadshotThumbnailField": ""
+      },
+      "broadcasters": [],
+      "sponsorImage": {},
+      "matchDate": "2024-07-21T02:30:00.0000000Z",
+      "firstPartyTickets": {
+        "url": "https://www.ticketmaster.com/seattle-sounders-fc-vs-los-angeles-seattle-washington-07-20-2024/event/0F0060329748137B",
+        "openInNewTab": true,
+        "isVisible": false
+      },
+      "period": "FullTime",
+      "winnerOptaId": 11690,
+      "homeScore": 0,
+      "awayScore": 3,
+      "tags": [],
+      "aggregate": {
+        "aggregate": "",
+        "aggregateShort": "",
+        "aggregateAbbr": "",
+        "date": "2024-07-21T02:30:00.0000000Z"
+      },
+      "homeClubBroadcasters": [],
+      "awayClubBroadcasters": [],
+      "clubBroadcasters": [],
+      "isTimeTbd": false,
+      "mgmId": "",
+      "appleStreamURL": "https://tv.apple.com/sporting-event/seattle-sounders-fc-vs-los-angeles-football-club/umc.cse.gamaw6t4t685cpwlm0xy6t65?itsct=tv_box&itscg=30200",
+      "appleSubscriptionTier": "",
+      "appleAdvertisementCategory": "",
+      "roundName": "",
+      "competitionPhase": "",
+      "homeClubRank": "",
+      "awayClubRank": "",
+      "roundNumber": 1,
+      "roundGroup": "",
+      "matchDay": "28",
+      "delayedMatch": false
+    },
+    {
+      "optaId": 2414861,
+      "slug": "lafcvssea-02-24-2024",
+      "leagueMatchTitle": "",
+      "home": {
+        "optaId": 11690,
+        "fullName": "Los Angeles Football Club",
+        "slug": "los-angeles-football-club",
+        "shortName": "LAFC",
+        "abbreviation": "LAFC",
+        "backgroundColor": "#212121",
+        "logoBWSlug": "webcomp_1a2ee9e1-cac2-4f2b-b771-620376f002ee",
+        "logoColorSlug": "webcomp_6f982df3-b4a5-44f2-a950-a2a3148a914c",
+        "logoColorUrl": "https://images.mlssoccer.com/image/upload/{formatInstructions}/v1620998598/assets/logos/LAFC-Logo-480px.png",
+        "crestColorSlug": "webcomp_d81f7b0b-8c59-49ce-8c59-ee5afe10aa03"
+      },
+      "away": {
+        "optaId": 3500,
+        "fullName": "Seattle Sounders FC",
+        "slug": "seattle-sounders-fc",
+        "shortName": "Seattle",
+        "abbreviation": "SEA",
+        "backgroundColor": "#2dc84d",
+        "logoBWSlug": "webcomp_d48039f4-62b6-445a-bcb7-fe2f76e003f2",
+        "logoColorSlug": "webcomp_a5251f90-8f18-4517-b3d3-5aa5f66696dc",
+        "logoColorUrl": "https://images.mlssoccer.com/image/upload/{formatInstructions}/v1702319240/assets/sea/logos/SEA2023-Full_Color-480x480_fk6mpu.png",
+        "crestColorSlug": "webcomp_54004f6d-5a0e-45ba-84b7-2333f6802125"
+      },
+      "resultType": "NormalResult",
+      "venue": {
+        "venueOptaId": "12919",
+        "backgroundImageSlug": "",
+        "name": "BMO Stadium",
+        "city": "Los Angeles, CA"
+      },
+      "season": {
+        "slug": "us-major-league-soccer-season-2024-2025",
+        "optaId": 2024,
+        "competitionId": 98,
+        "name": "Season 2024/2025"
+      },
+      "competition": {
+        "optaId": 98,
+        "name": "MLS Regular Season",
+        "slug": "mls-regular-season",
+        "shortName": "Regular Season",
+        "matchType": "Regular",
+        "logoLight": {
+          "slug": ""
+        },
+        "logoDark": {
+          "slug": ""
+        },
+        "blockHeaderName": "",
+        "mgmId": "",
+        "playerHeadshotThumbnailField": ""
+      },
+      "broadcasters": [],
+      "sponsorImage": {},
+      "matchDate": "2024-02-24T21:45:00.0000000Z",
+      "firstPartyTickets": {
+        "url": "https://www.ticketmaster.com/los-angeles-football-club-vs-seattle-los-angeles-california-02-24-2024/event/0A0060239A4B1361",
+        "openInNewTab": true,
+        "isVisible": false
+      },
+      "period": "FullTime",
+      "winnerOptaId": 11690,
+      "homeScore": 2,
+      "awayScore": 1,
+      "tags": [],
+      "aggregate": {
+        "aggregate": "",
+        "aggregateShort": "",
+        "aggregateAbbr": "",
+        "date": "2024-02-24T21:45:00.0000000Z"
+      },
+      "homeClubBroadcasters": [],
+      "awayClubBroadcasters": [],
+      "clubBroadcasters": [],
+      "isTimeTbd": false,
+      "mgmId": "",
+      "appleStreamURL": "https://tv.apple.com/sporting-event/los-angeles-football-club-vs-seattle-sounders-fc/umc.cse.5zq7qi415vil0ja0ugrrxlsv7?itsct=s_mls_partner_gp&itscg=80320",
+      "appleSubscriptionTier": "",
+      "appleAdvertisementCategory": "",
+      "roundName": "",
+      "competitionPhase": "",
+      "homeClubRank": "",
+      "awayClubRank": "",
+      "roundNumber": 1,
+      "roundGroup": "",
+      "matchDay": "2",
+      "delayedMatch": false
+    }
+  ],
+  "firstClubWins": 5,
+  "firstClubFormGuide": "L-W-W-L-W",
+  "secondClubWins": 12,
+  "secondClubFormGuide": "W-W-W-L-W",
+  "draws": 4
+}

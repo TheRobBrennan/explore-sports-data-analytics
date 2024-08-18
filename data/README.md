@@ -8,6 +8,10 @@ This directory contains example data files to get started with popular sports AP
 
 Please review the overview of sample data locally available for Major League Baseball (MLB) within this project at [./MLB%20-%20Major%20League%20Baseball/README.md](./MLB%20-%20Major%20League%20Baseball/README.md).
 
+### MLS - Major League Soccer
+
+Please review the overview of sample data locally available for Major League Soccer (MLS) within this project at [./MLS%20-%20Major%20League%20Soccer/README.md](./MLS%20-%20Major%20League%20Soccer/README.md)
+
 ### NFL - National Football League
 
 Please review the overview of sample data locally available for the National Football League (NFL) within this project at [./NFL%20-%20National%20Football%20League/README.md](./NFL%20-%20National%20Football%20League/README.md).
