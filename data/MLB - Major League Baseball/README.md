@@ -5,7 +5,8 @@ This directory contains example data files to explore [MLB](https://www.mlb.com)
 ## Major League Baseball (MLB)
 
 This endpoint is publicly-available and can be accessed by obtaining the game ID from the MLB scoreboard.
-Example data is contained in files matching the pattern `YYYYMMDD-visiting-vs-home-<MLB_GAME_ID>.json` from the MLB API:
+
+Example data is contained in files matching the pattern `YYYYMMDD-visiting-vs-home-<MLB_GAME_ID>.json` from the MLB API.
 
 Example scoreboard URL for the 2024.08.24 game between SF and SEA is [https://www.mlb.com/gameday/giants-vs-mariners/2024/08/24/745218/final/wrap](https://www.mlb.com/gameday/giants-vs-mariners/2024/08/24/745218/final/wrap):
 
