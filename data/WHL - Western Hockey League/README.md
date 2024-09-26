@@ -15,3 +15,10 @@ Game Summary:
 Play By Play:
 
 - [https://cluster.leaguestat.com/feed/index.php?feed=gc&key=41b145a848f4bd67&client_code=whl&game_id=1021208&lang_code=en&fmt=json&tab=pxpverbose](./2024-25/20240920-SEA-vs-VAN-1021208-pxpverbose.json)
+
+### Seattle Thunderbirds 2024-25
+
+Play By Play:
+
+- [2024.09.20 Seattle loses 4-3 against Vancouver in OT](./2024-25/20240920-SEA-vs-VAN-1021208-pxpverbose.json)
+- [2024.09.21 Seattle loses 7-1 against Wenatchee](./2024-25/20240921-SEA-vs-WEN-1021219-pxpverbose.json)
