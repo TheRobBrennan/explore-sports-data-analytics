@@ -6,16 +6,12 @@ This directory contains example data files to explore [WHL](https://chl.ca/whl/)
 
 Example data is contained in files matching the pattern `YYYYMMDD-visiting-vs-home-<WHL_GAME_ID>-<tab>.json` from the WHL API.
 
-### Game summary
+For the first regular season game of the 2024-25 season for the Seattle Thunderbirds (WHL game ID `1021208`):
 
-Example data using the `gamesummary` tab:
+Game Summary:
 
-- GET [https://cluster.leaguestat.com/feed/index.php?feed=gc&key=41b145a848f4bd67&client_code=whl&game_id=1020236&lang_code=en&fmt=json&tab=gamesummary](https://cluster.leaguestat.com/feed/index.php?feed=gc&key=41b145a848f4bd67&client_code=whl&game_id=1020236&lang_code=en&fmt=json&tab=gamesummary)
-  - [./2023-24/preseason/20230910-SEA-vs-POR-1020236-gamesummary.json](./2023-24/preseason/20230910-SEA-vs-POR-1020236-gamesummary.json)
+- [https://cluster.leaguestat.com/feed/index.php?feed=gc&key=41b145a848f4bd67&client_code=whl&game_id=1021208&lang_code=en&fmt=json&tab=gamesummary](./2024-25/20240920-SEA-vs-VAN-1021208-gamesummary.json)
 
-### Play-by-play (verbose)
+Play By Play:
 
-Example data using the `pxpverbose` tab:
-
-- GET [https://cluster.leaguestat.com/feed/index.php?feed=gc&key=41b145a848f4bd67&client_code=whl&game_id=1020236&lang_code=en&fmt=json&tab=pxpverbose](https://cluster.leaguestat.com/feed/index.php?feed=gc&key=41b145a848f4bd67&client_code=whl&game_id=1020236&lang_code=en&fmt=json&tab=pxpverbose)
-  - [./2023-24/preseason/20230910-SEA-vs-POR-1020236-pxpverbose.json](./2023-24/preseason/20230910-SEA-vs-POR-1020236-pxpverbose.json)
+- [https://cluster.leaguestat.com/feed/index.php?feed=gc&key=41b145a848f4bd67&client_code=whl&game_id=1021208&lang_code=en&fmt=json&tab=pxpverbose](./2024-25/20240920-SEA-vs-VAN-1021208-pxpverbose.json)
