@@ -23,3 +23,4 @@ Play By Play:
 - [2024.09.20 Seattle loses 4-3 against Vancouver in OT](./2024-25/20240920-SEA-vs-VAN-1021208-pxpverbose.json)
 - [2024.09.21 Seattle loses 7-1 against Wenatchee](./2024-25/20240921-SEA-vs-WEN-1021219-pxpverbose.json)
 - [2024.09.27 Seattle loses 5-3 against Kamloops](./2024-25/20240927-SEA-vs-KAM-1021220-pxpverbose.json)
+- [2024.09.28 Seattle WINS 5-4 against Wenatchee](./2024-25/20240928-WEN-vs-SEA-1021233-pxpverbose.json)
