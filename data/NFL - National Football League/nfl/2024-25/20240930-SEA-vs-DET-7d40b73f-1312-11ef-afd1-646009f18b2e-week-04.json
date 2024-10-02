@@ -1,0 +1,134 @@
+{
+  "id": "7d40b73f-1312-11ef-afd1-646009f18b2e",
+  "homeTeam": {
+    "id": "10401540-f97c-2d19-6fcd-fac6490a48b7",
+    "currentLogo": "https://static.www.nfl.com/{formatInstructions}/league/api/clubs/logos/DET",
+    "fullName": "Detroit Lions"
+  },
+  "awayTeam": {
+    "id": "10404600-adcd-28ac-5826-b4d95ec2a228",
+    "currentLogo": "https://static.www.nfl.com/{formatInstructions}/league/api/clubs/logos/SEA",
+    "fullName": "Seattle Seahawks"
+  },
+  "category": "MNF",
+  "date": "2024-10-01",
+  "time": "2024-10-01T00:15:00Z",
+  "broadcastInfo": {
+    "homeNetworkChannels": [
+      "ABC",
+      "ESPN+"
+    ],
+    "awayNetworkChannels": [
+      "ABC",
+      "ESPN+"
+    ],
+    "internationalWatchOptions": [
+      {
+        "countryCode": "CA",
+        "broadcasters": [
+          "DAZN Canada",
+          "RDS",
+          "TSN"
+        ]
+      },
+      {
+        "countryCode": "GB",
+        "broadcasters": [
+          "Sky Sports",
+          "NFL Game Pass on DAZN"
+        ]
+      },
+      {
+        "countryCode": "MX",
+        "broadcasters": [
+          "ESPN2",
+          "NFL Game Pass on DAZN"
+        ]
+      },
+      {
+        "countryCode": "DE",
+        "broadcasters": [
+          "NFL Game Pass on DAZN"
+        ]
+      },
+      {
+        "countryCode": "AU",
+        "broadcasters": [
+          "ESPN2",
+          "NFL Game Pass on DAZN"
+        ]
+      },
+      {
+        "countryCode": "FR",
+        "broadcasters": [
+          "NFL Game Pass on DAZN"
+        ]
+      },
+      {
+        "countryCode": "BR",
+        "broadcasters": [
+          "ESPN 2",
+          "Disney+",
+          "NFL Game Pass on DAZN"
+        ]
+      }
+    ],
+    "streamingNetworks": [
+      {
+        "hostNetwork": "ABC",
+        "networks": [
+          "ABC",
+          "ESPNPLUS"
+        ]
+      },
+      {
+        "hostNetwork": "ESPNPLUSSPANISH",
+        "networks": [
+          "ESPNPLUSSPANISH"
+        ]
+      }
+    ],
+    "territory": "NATIONAL"
+  },
+  "gameType": "UNSPECIFIED",
+  "international": false,
+  "neutralSite": false,
+  "venue": {
+    "id": "00082026-23fe-63b7-7d18-43cec01cfcfb",
+    "name": "Ford Field",
+    "city": "Detroit",
+    "country": "USA"
+  },
+  "season": 2024,
+  "seasonType": "REG",
+  "status": "SCHEDULED",
+  "week": 4,
+  "weekType": "REG",
+  "externalIds": [
+    {
+      "source": "elias",
+      "id": "2024093001"
+    },
+    {
+      "source": "gsis",
+      "id": "59571"
+    },
+    {
+      "source": "slug",
+      "id": "seahawks-at-lions-2024-reg-4"
+    }
+  ],
+  "ticketUrl": "https://www.ticketmaster.com/event/08006091C46A2BD2?utm_source=NFL.com&utm_medium=client&utm_campaign=NFL_LEAGUE&campaign=nfl-sd-iw-sp-2003937",
+  "ticketVendors": [
+    {
+      "vendorName": "lodgingUrl",
+      "ticketUrl": "https://www.marriott.com/search/submitSearch.mi?pageType=advanced&searchType=NearAddress&marriottBrands=CY&showMore=true&destinationAddress.location=Ford+Field&cid=PMO_GLB0003VDI_GLE00095QF_GLF000HKEV"
+    },
+    {
+      "vendorName": "oneBoxUrl",
+      "ticketUrl": "https://www.ticketmaster.com/event/08006091C46A2BD2?wt.mc_id=NFL_LEAGUE_GOOGLE_ONE_BOX_DET_LINK8&utm_source=NFL.com&utm_medium=client&utm_campaign=NFL_LEAGUE&utm_content=GOOGLE_ONE_BOX_DET_LINK8"
+    }
+  ],
+  "extensions": [],
+  "version": 4
+}

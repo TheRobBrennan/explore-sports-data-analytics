@@ -13,4 +13,5 @@ Example data is contained in files matching the pattern `YYYYMMDD-visiting-vs-ho
   - [Preseason Week 3 - CLE vs SEA](./2024-25/20240824-CLE-vs-SEA-c7cf9f95-2459-11ef-afd1-646009f18b2e-preseason-week-3.json)
   - [Week 01 - DEN vs SEA](./2024-25/20240908-DEN-vs-SEA-7d4037fc-1312-11ef-afd1-646009f18b2e-week-01.json)
   - [Week 02 - SEA vs NE](./2024-25/20240915-SEA-vs-NE-7d405a62-1312-11ef-afd1-646009f18b2e-week-02.json)
-  - [Week 03 - MIA vs SEA](./2024-25/20240922-MIA-vs-SEA-7d4083ab-1312-11ef-afd1-646009f18b2e.json)
+  - [Week 03 - MIA vs SEA](./2024-25/20240922-MIA-vs-SEA-7d4083ab-1312-11ef-afd1-646009f18b2e-week-03.json)
+  - [Week 04 - SEA vs DET](./2024-25/20240930-SEA-vs-DET-7d40b73f-1312-11ef-afd1-646009f18b2e-week-04.json)
