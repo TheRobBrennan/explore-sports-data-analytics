@@ -20,9 +20,10 @@ Play By Play:
 
 Play By Play:
 
-- [2024.09.20 Seattle loses 4-3 against Vancouver in OT](./2024-25/20240920-SEA-vs-VAN-1021208-pxpverbose.json)
-- [2024.09.21 Seattle loses 7-1 against Wenatchee](./2024-25/20240921-SEA-vs-WEN-1021219-pxpverbose.json)
-- [2024.09.27 Seattle loses 5-3 against Kamloops](./2024-25/20240927-SEA-vs-KAM-1021220-pxpverbose.json)
-- [2024.09.28 Seattle WINS 5-4 against Wenatchee in OT](./2024-25/20240928-WEN-vs-SEA-1021233-pxpverbose.json)
-- [2024.10.04 Seattle loses 5-2 against Prince George](./2024-25/20241004-PG-vs-SEA-1021246-pxpverbose.json)
-- [2024.10.05 Seattle loses 7-2 against Spokane](./2024-25/20241005-SEA-vs-SPO-1021256-pxpverbose.json)
+- [GAME #01: 2024.09.20 Seattle loses 4-3 against Vancouver in OT](./2024-25/20240920-SEA-vs-VAN-1021208-pxpverbose.json)
+- [GAME #02: 2024.09.21 Seattle loses 7-1 against Wenatchee](./2024-25/20240921-SEA-vs-WEN-1021219-pxpverbose.json)
+- [GAME #03: 2024.09.27 Seattle loses 5-3 against Kamloops](./2024-25/20240927-SEA-vs-KAM-1021220-pxpverbose.json)
+- [GAME #04: 2024.09.28 Seattle WINS 5-4 against Wenatchee in OT](./2024-25/20240928-WEN-vs-SEA-1021233-pxpverbose.json)
+- [GAME #05: 2024.10.04 Seattle loses 5-2 against Prince George](./2024-25/20241004-PG-vs-SEA-1021246-pxpverbose.json)
+- [GAME #06: 2024.10.05 Seattle loses 7-2 against Spokane](./2024-25/20241005-SEA-vs-SPO-1021256-pxpverbose.json)
+- [GAME #07: 2024.10.08 Seattle WINS 5-2 against Tri-City](./2024-25/20241008-TC-vs-SEA-1021264-pxpverbose.json)
