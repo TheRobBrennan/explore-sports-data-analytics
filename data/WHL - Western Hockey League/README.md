@@ -27,3 +27,4 @@ Play By Play:
 - [GAME #05: 2024.10.04 Seattle loses 5-2 against Prince George](./2024-25/20241004-PG-vs-SEA-1021246-pxpverbose.json)
 - [GAME #06: 2024.10.05 Seattle loses 7-2 against Spokane](./2024-25/20241005-SEA-vs-SPO-1021256-pxpverbose.json)
 - [GAME #07: 2024.10.08 Seattle WINS 5-2 against Tri-City](./2024-25/20241008-TC-vs-SEA-1021264-pxpverbose.json)
+- [GAME #08: 2024.10.11 Seattle WINS 3-1 against Kamloops](./2024-25/20241011-KAM-vs-SEA-1021276-pxpverbose.json)
