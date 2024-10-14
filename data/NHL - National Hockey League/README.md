@@ -19,3 +19,4 @@ Play-by-play data can be accessed via [https://api-web.nhle.com/v1/gamecenter/20
 
 - [GAME #01: St. Louis Blues vs Seattle Kraken - Seattle loses first-ever home opener 3-2](./2024-25/regular-season/20241008-STL-vs-SEA-2024020003.json)
 - [GAME #02: Seattle Kraken vs Minnesota Wild - Seattle wins in the shootout 5-4](./2024-25/regular-season/20241012-SEA-vs-MIN-2024020033.json)
+- [GAME #03: Seattle Kraken vs Dallas Stars - Seattle loses 2-0](./2024-25/regular-season/20241013-SEA-vs-DAL-2024020039.json)
