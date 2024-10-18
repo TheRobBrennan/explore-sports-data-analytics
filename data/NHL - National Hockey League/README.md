@@ -21,3 +21,4 @@ Play-by-play data can be accessed via [https://api-web.nhle.com/v1/gamecenter/20
 - [GAME #02: Seattle Kraken vs Minnesota Wild - Seattle wins in the shootout 5-4](./2024-25/regular-season/20241012-SEA-vs-MIN-2024020033.json)
 - [GAME #03: Seattle Kraken vs Dallas Stars - Seattle loses 2-0](./2024-25/regular-season/20241013-SEA-vs-DAL-2024020039.json)
 - [GAME #04: Seattle Kraken vs Nashville Predators - Seattle wins 7-3](./2024-25/regular-season/20241015-SEA-vs-NSH-2024020053.json)
+- [GAME #05: Philadelphia Flyers vs Seattle Kraken - Seattle wins 6-4](./2024-25/regular-season/20241018-PHI-vs-SEA-2024020071.json)
