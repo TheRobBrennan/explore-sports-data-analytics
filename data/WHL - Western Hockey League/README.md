@@ -33,3 +33,4 @@ Play By Play:
 - [GAME #11: 2024.10.19 Seattle loses 8-0 against Regina](./2024-25/20241019-SEA-vs-REG-1021310-pxpverbose.json)
 - [GAME #12: 2024.10.22 Seattle WINS 4-1 against Moose Jaw](./2024-25/20241022-SEA-vs-MJ-1021318-pxpverbose.json)
 - [GAME #13: 2024.10.23 Seattle loses 5-1 against Saskatoon](./2024-25/20241023-SEA-vs-SAS-1021322-pxpverbose.json)
+- [GAME #14: 2024.10.25 Seattle loses 4-3 against Prince Albert](./2024-25/20241025-SEA-vs-PA-1021326-pxpverbose.json)
