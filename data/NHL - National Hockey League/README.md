@@ -25,3 +25,5 @@ Play-by-play data can be accessed via [https://api-web.nhle.com/v1/gamecenter/20
 - [GAME #06: Calgary Flames vs Seattle Kraken - Seattle wins 2-1 in OT](./2024-25/regular-season/20241019-CGY-vs-SEA-2024020087.json)
 - [GAME #07: Colorado Avalanche vs Seattle Kraken - Seattle loses 3-2](./2024-25/regular-season/20241022-COL-vs-SEA-2024020106.json)
 - [GAME #08: Winnipeg Jets vs Seattle Kraken - Seattle loses 4-3 in OT](./2024-25/regular-season/20241024-WPG-vs-SEA-2024020116.json)
+- [GAME #09: Carolina Hurricanes vs Seattle Kraken - Seattle loses 4-1](./2024-25/regular-season/20241026-CAR-vs-SEA-2024020135.json)
+- [GAME #10: Seattle Kraken vs Montreal Canadiens - Seattle wins 8-2](./2024-25/regular-season/20241029-SEA-vs-MTL-2024020149.json)
