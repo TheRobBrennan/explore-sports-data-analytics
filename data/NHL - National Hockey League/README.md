@@ -28,3 +28,4 @@ Play-by-play data can be accessed via [https://api-web.nhle.com/v1/gamecenter/20
 - [GAME #09: Carolina Hurricanes vs Seattle Kraken - Seattle loses 4-1](./2024-25/regular-season/20241026-CAR-vs-SEA-2024020135.json)
 - [GAME #10: Seattle Kraken vs Montreal Canadiens - Seattle wins 8-2](./2024-25/regular-season/20241029-SEA-vs-MTL-2024020149.json)
 - [GAME #11: Seattle Kraken vs Toronto Maple Leafs - Seattle loses 4-1](./2024-25/regular-season/20241031-SEA-vs-TOR-2024020161.json)
+- [GAME #12: Seattle Kraken vs Ottawa Senators - Seattle loses 3-0](./2024-25/regular-season/20241102-SEA-vs-OTT-2024020178.json)
