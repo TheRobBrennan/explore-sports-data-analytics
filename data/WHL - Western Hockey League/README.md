@@ -37,3 +37,4 @@ Play By Play:
 - [GAME #15: 2024.10.26 Seattle loses 7-4 against Swift Current](./2024-25/20241026-SEA-vs-SC-1021341-pxpverbose.json)
 - [GAME #16: 2024.11.01 Seattle loses 5-4 against Edmonton in SO](./2024-25/20241101-EDM-vs-SEA-1021354-pxpverbose.json)
 - [GAME #17: 2024.11.02 Seattle loses 5-2 against Portland](./2024-25/20241102-POR-vs-SEA-1021361-pxpverbose.json)
+- [GAME #18: 2024.11.08 Seattle loses 4-3 against Calgary in OT](./2024-25/20241108-CGY-vs-SEA-1021381-pxpverbose.json)
