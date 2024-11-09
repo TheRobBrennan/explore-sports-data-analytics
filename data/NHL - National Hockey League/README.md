@@ -31,3 +31,4 @@ Play-by-play data can be accessed via [https://api-web.nhle.com/v1/gamecenter/20
 - [GAME #12: Seattle Kraken vs Ottawa Senators - Seattle loses 3-0](./2024-25/regular-season/20241102-SEA-vs-OTT-2024020178.json)
 - [GAME #13: Seattle Kraken vs Boston Bruins - Seattle loses 2-0](./2024-25/regular-season/20241103-SEA-vs-BOS-2024020187.json)
 - [GAME #14: Seattle Kraken vs Colorado Avalanche - Seattle loses 6-3](./2024-25/regular-season/20241105-SEA-vs-COL-2024020202.json)
+- [GAME #15: Vegas Golden Knights vs Seattle Kraken - Seattle wins 4-3 in OT](./2024-25/regular-season/20241108-VGK-vs-SEA-2024020223.json)
