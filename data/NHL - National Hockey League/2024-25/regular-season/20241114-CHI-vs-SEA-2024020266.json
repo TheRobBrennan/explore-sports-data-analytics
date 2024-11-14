@@ -1,0 +1,102 @@
+{
+  "id": 2024020266,
+  "season": 20242025,
+  "gameType": 2,
+  "limitedScoring": false,
+  "gameDate": "2024-11-14",
+  "venue": {
+    "default": "Climate Pledge Arena"
+  },
+  "venueLocation": {
+    "default": "Seattle"
+  },
+  "startTimeUTC": "2024-11-15T03:00:00Z",
+  "easternUTCOffset": "-05:00",
+  "venueUTCOffset": "-08:00",
+  "tvBroadcasts": [
+    {
+      "id": 282,
+      "market": "N",
+      "countryCode": "CA",
+      "network": "SN",
+      "sequenceNumber": 21
+    },
+    {
+      "id": 284,
+      "market": "N",
+      "countryCode": "CA",
+      "network": "SN1",
+      "sequenceNumber": 102
+    },
+    {
+      "id": 551,
+      "market": "A",
+      "countryCode": "US",
+      "network": "CHSN",
+      "sequenceNumber": 243
+    },
+    {
+      "id": 554,
+      "market": "H",
+      "countryCode": "US",
+      "network": "KHN",
+      "sequenceNumber": 339
+    },
+    {
+      "id": 388,
+      "market": "H",
+      "countryCode": "US",
+      "network": "KONG",
+      "sequenceNumber": 654
+    }
+  ],
+  "gameState": "FUT",
+  "gameScheduleState": "OK",
+  "awayTeam": {
+    "id": 16,
+    "name": {
+      "default": "Blackhawks"
+    },
+    "abbrev": "CHI",
+    "score": 0,
+    "logo": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg",
+    "darkLogo": "https://assets.nhle.com/logos/nhl/svg/CHI_dark.svg",
+    "placeName": {
+      "default": "Chicago"
+    },
+    "placeNameWithPreposition": {
+      "default": "Chicago",
+      "fr": "de Chicago"
+    }
+  },
+  "homeTeam": {
+    "id": 55,
+    "name": {
+      "default": "Kraken"
+    },
+    "abbrev": "SEA",
+    "score": 0,
+    "logo": "https://assets.nhle.com/logos/nhl/svg/SEA_light.svg",
+    "darkLogo": "https://assets.nhle.com/logos/nhl/svg/SEA_dark.svg",
+    "placeName": {
+      "default": "Seattle"
+    },
+    "placeNameWithPreposition": {
+      "default": "Seattle",
+      "fr": "de Seattle"
+    }
+  },
+  "shootoutInUse": true,
+  "otInUse": true,
+  "clock": {
+    "timeRemaining": "20:00",
+    "secondsRemaining": 1200,
+    "running": false,
+    "inIntermission": false
+  },
+  "displayPeriod": 1,
+  "maxPeriods": 5,
+  "plays": [],
+  "rosterSpots": [],
+  "regPeriods": 3
+}
