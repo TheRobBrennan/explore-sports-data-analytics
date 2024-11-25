@@ -42,3 +42,4 @@ Play By Play:
 - [GAME #20: 2024.11.12 Seattle WINS 3-2 against Red Deer in SO](./2024-25/20241112-RD-vs-SEA-1021400-pxpverbose.json)
 - [GAME #21: 2024.11.13 Seattle loses 5-3 against Kelowna](./2024-25/20241113-SEA-vs-KEL-1021402-pxpverbose.json)
 - [GAME #22: 2024.11.16 Seattle loses 5-2 against Everett](./2024-25/20241116-EVT-vs-SEA-1021418-pxpverbose.json)
+- [GAME #23: 2024.11.23 Seattle WINS 5-3 against Lethbridge in SO](./2024-25/20241123-LET-vs-SEA-1021446-pxpverbose.json)
