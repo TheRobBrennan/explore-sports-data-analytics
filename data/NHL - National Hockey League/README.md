@@ -40,3 +40,4 @@ Play-by-play data can be accessed via [https://api-web.nhle.com/v1/gamecenter/20
 - [GAME #21: Seattle Kraken vs Los Angeles Kings - Seattle loses 2-1](./2024-25/regular-season/20241123-SEA-vs-LAK-2024020320.json)
 - [GAME #22: Seattle Kraken vs Anaheim Ducks - Seattle wins 3-2](./2024-25/regular-season/20241125-SEA-vs-ANA-2024020343.json)
 - [GAME #23: Anaheim Ducks vs Seattle Kraken - Seattle loses 5-2](./2024-25/regular-season/20241127-ANA-vs-SEA-2024020360.json)
+- [GAME #24: Seattle Kraken vs San Jose Sharks - Seattle loses 8-5](./2024-25/regular-season/20241129-SEA-vs-SJS-2024020371.json)
