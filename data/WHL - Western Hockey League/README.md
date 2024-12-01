@@ -45,3 +45,4 @@ Play By Play:
 - [GAME #23: 2024.11.23 Seattle WINS 5-3 against Lethbridge in SO](./2024-25/20241123-LET-vs-SEA-1021446-pxpverbose.json)
 - [GAME #24: 2024.11.27 Seattle WINS 3-2 against Wenatchee in SO](./2024-25/20241127-WEN-vs-SEA-1021455-pxpverbose.json)
 - [GAME #25: 2024.11.29 Seattle WINS 3-2 against Victoria in SO](./2024-25/20241129-SEA-vs-VIC-1021465-pxpverbose.json)
+- [GAME #26: 2024.11.30 Seattle loses 6-1 against Victoria](./2024-25/20241130-SEA-vs-VIC-1021476-pxpverbose.json)
