@@ -48,3 +48,4 @@ Play By Play:
 - [GAME #26: 2024.11.30 Seattle loses 6-1 against Victoria](./2024-25/20241130-SEA-vs-VIC-1021476-pxpverbose.json)
 - [GAME #27: 2024.12.01 Seattle loses 5-2 against Vancouver](./2024-25/20241201-SEA-vs-VAN-1021480-pxpverbose.json)
 - [GAME #28: 2024.12.06 Seattle WINS 5-2 against Kamloops](./2024-25/20241206-SEA-vs-KAM-1021489-pxpverbose.json)
+- [GAME #29: 2024.12.07 Seattle loses 4-1 against Everett](./2024-25/20241207-SEA-vs-EVT-1021497-pxpverbose.json)
