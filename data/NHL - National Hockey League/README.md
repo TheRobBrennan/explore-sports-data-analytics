@@ -46,3 +46,4 @@ Play-by-play data can be accessed via [https://api-web.nhle.com/v1/gamecenter/20
 - [GAME #27: Seattle Kraken vs New York Islanders - Seattle wins 5-2](./2024-25/regular-season/20241205-SEA-vs-NYI-2024020416.json)
 - [GAME #28: Seattle Kraken vs New Jersey Devils - Seattle loses 3-2](./2024-25/regular-season/20241207-SEA-vs-NJD-2024020420.json)
 - [GAME #29: Seattle Kraken vs New York Rangers - Seattle wins 7-5](./2024-25/regular-season/20241208-SEA-vs-NYR-2024020436.json)
+- [GAME #30: Florida Panthers vs Seattle Kraken - Seattle loses 2-1 in SO](./2024-25/regular-season/20241210-FLA-vs-SEA-2024020456.json)
