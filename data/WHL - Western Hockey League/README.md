@@ -6,15 +6,11 @@ This directory contains example data files to explore [WHL](https://chl.ca/whl/)
 
 Example data is contained in files matching the pattern `YYYYMMDD-visiting-vs-home-<WHL_GAME_ID>-<tab>.json` from the WHL API.
 
-For the first regular season game of the 2024-25 season for the Seattle Thunderbirds (WHL game ID `1021208`):
+For the first regular season game of the 2024-25 season for the Seattle Thunderbirds (WHL game ID `1021522`):
 
-Game Summary:
+Game Summary - <https://cluster.leaguestat.com/feed/index.php?feed=gc&game_id=1021522&key=41b145a848f4bd67&client_code=whl&lang_code=en&fmt=json&tab=gamesummary>
 
-- [https://cluster.leaguestat.com/feed/index.php?feed=gc&key=41b145a848f4bd67&client_code=whl&game_id=1021208&lang_code=en&fmt=json&tab=gamesummary](./2024-25/20240920-SEA-vs-VAN-1021208-gamesummary.json)
-
-Play By Play:
-
-- [https://cluster.leaguestat.com/feed/index.php?feed=gc&key=41b145a848f4bd67&client_code=whl&game_id=1021208&lang_code=en&fmt=json&tab=pxpverbose](./2024-25/20240920-SEA-vs-VAN-1021208-pxpverbose.json)
+Play By Play - <https://cluster.leaguestat.com/feed/index.php?feed=gc&game_id=1021522&key=41b145a848f4bd67&client_code=whl&lang_code=en&fmt=json&tab=pxpverbose>
 
 ### Seattle Thunderbirds 2024-25
 
@@ -51,3 +47,4 @@ Play By Play:
 - [GAME #29: 2024.12.07 Seattle loses 4-1 against Everett](./2024-25/20241207-SEA-vs-EVT-1021497-pxpverbose.json)
 - [GAME #30: 2024.12.08 Seattle loses 3-1 against Spokane](./2024-25/20241208-SPO-vs-SEA-1021507-pxpverbose.json)
 - [GAME #31: 2024.12.10 Seattle wins 7-3 against Wenatchee](./2024-25/20241210-WEN-vs-SEA-1021512-pxpverbose.json)
+- [GAME #32: 2024.12.13 Seattle TBD](./2024-25/20241213-SPO-vs-SEA-1021522-pxpverbose.json)
