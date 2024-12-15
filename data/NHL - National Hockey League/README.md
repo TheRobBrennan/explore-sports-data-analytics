@@ -48,3 +48,4 @@ Play-by-play data can be accessed via [https://api-web.nhle.com/v1/gamecenter/20
 - [GAME #29: Seattle Kraken vs New York Rangers - Seattle wins 7-5](./2024-25/regular-season/20241208-SEA-vs-NYR-2024020436.json)
 - [GAME #30: Florida Panthers vs Seattle Kraken - Seattle loses 2-1 in SO](./2024-25/regular-season/20241210-FLA-vs-SEA-2024020456.json)
 - [GAME #31: Boston Bruins vs Seattle Kraken - Seattle wins 5-1](./2024-25/regular-season/20241212-BOS-vs-SEA-2024020472.json)
+- [GAME #32: Tampa Bay Lightning vs Seattle Kraken - Seattle loses 5-1](./2024-25/regular-season/20241214-TBL-vs-SEA-2024020488.json)
