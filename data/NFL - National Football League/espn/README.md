@@ -29,3 +29,4 @@ Example data is contained in files matching the pattern `YYYYMMDD-visiting-vs-ho
     - [Week 14 - SEA vs ARI](./2024-25/20241208-SEA-vs-ARI-401671660-week-14.json)
     - [Week 15 - GB vs SEA](./2024-25/20241215-GB-vs-SEA-401671796-week-15.json)
     - [Week 16 - MIN vs SEA](./2024-25/20241222-MIN-vs-SEA-401671795-week-16.json)
+    - [Week 17 - SEA vs CHI](./2024-25/20241226-SEA-vs-CHI-401671876-week-17.json)
