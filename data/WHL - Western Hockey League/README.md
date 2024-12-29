@@ -50,3 +50,4 @@ Play By Play:
 - [GAME #32: 2024.12.13 Seattle loses 4-3 against Spokane](./2024-25/20241213-SPO-vs-SEA-1021522-pxpverbose.json)
 - [GAME #33: 2024.12.14 Seattle loses 5-2 against Portland](./2024-25/20241214-SEA-vs-POR-1021529-pxpverbose.json)
 - [GAME #34: 2024.12.27 Seattle loses 5-3 against Everett](./2024-25/20241227-EVT-vs-SEA-1021553-pxpverbose.json)
+- [GAME #35: 2024.12.28 Seattle loses 6-1 against Everett](./2024-25/20241228-SEA-vs-EVT-1021556-pxpverbose.json)
