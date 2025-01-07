@@ -35,6 +35,8 @@ get_nhl_season() {
 # Get game type string
 get_game_type_string() {
     local type_id=$1
+
+    # TODO: Keep an eye on this for unexpected type_id
     if [ "$type_id" = "2" ]; then
         echo "regular-season"
     else
@@ -86,17 +88,18 @@ main() {
     local date=${2:-$(date +%Y-%m-%d)}
 
     # Validate team
+    # TODO: Add support for other NHL teams
     if [ "$team" != "kraken" ]; then
-        echo "Error: Only 'kraken' team is supported"
+        echo "Error: Only 'kraken' NHL data downloading is supported"
         usage
     fi
 
-    echo "Checking for Kraken game on ${date}..."
+    echo "Checking for Kraken game data from ${date}..."
     local scores_data=$(fetch_nhl_data "score/${date}")
     local game_info=$(find_kraken_game "$scores_data")
 
     if [ -z "$game_info" ]; then
-        echo "No Kraken game found for ${date}"
+        echo "No Kraken game data was found for ${date}"
         exit 0
     fi
 
