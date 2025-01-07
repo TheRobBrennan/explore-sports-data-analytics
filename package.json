@@ -3,7 +3,10 @@
   "version": "0.0.0",
   "description": "This project explores working with a variety of APIs for sports data analysis and visualization.",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "download:kraken": "npm run download:nhl:kraken",
+    "download:nhl:kraken": "./src/download_nhl.sh kraken",
+    "download:nhl:kraken:date": "./src/download_nhl.sh kraken 2025-01-06"
   },
   "repository": {
     "type": "git",
