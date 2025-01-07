@@ -9,7 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/SplooshAI/sploosh-ai-sports-analytics.git"
   },
-  "author": "Rob Brennan <rob@therobbrennan.com>",
+  "author": "Rob Brennan <rob@sploosh.ai>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/SplooshAI/sploosh-ai-sports-analytics/issues"
