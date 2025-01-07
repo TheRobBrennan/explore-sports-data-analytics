@@ -54,4 +54,4 @@ Play By Play:
 - [GAME #36: 2024.12.31 Seattle loses 6-4 against Prince George](./2024-25/20241231-PG-vs-SEA-1021574-pxpverbose.json)
 - [GAME #37: 2025.01.03 Seattle wins 3-1 against Prince George](./2024-25/20250103-SEA-vs-PG-1021587-pxpverbose.json)
 - [GAME #38: 2025.01.04 Seattle loses 3-0 against Prince George](./2024-25/20250104-SEA-vs-PG-1021601-pxpverbose.json)
-- [GAME #39: 2025.01.07 Seattle ... against Victoria](./2024-25/20250107-SEA-vs-VIC-1021611-pxpverbose.json)
+- [GAME #39: 2025.01.07 Seattle ... against Victoria](./2024-25/20250107-VIC-vs-SEA-1021611-pxpverbose.json)

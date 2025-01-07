@@ -1,1 +1,16 @@
-{"GC":{"Parameters":{"feed":"gc","game_id":"1021611","key":"41b145a848f4bd67","client_code":"whl","lang_code":"en","fmt":"json","tab":"pxpverbose","lang_id":1,"static":0},"Pxpverbose":[]}}
+{
+    "GC": {
+        "Parameters": {
+            "feed": "gc",
+            "game_id": "1021611",
+            "key": "41b145a848f4bd67",
+            "client_code": "whl",
+            "lang_code": "en",
+            "fmt": "json",
+            "tab": "pxpverbose",
+            "lang_id": 1,
+            "static": 0
+        },
+        "Pxpverbose": []
+    }
+}
