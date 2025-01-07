@@ -8,8 +8,8 @@
 
 # Function to print usage instructions
 usage() {
-    echo "Usage: $0 team [date]"
-    echo "  team: kraken"
+    echo "Usage: $0 [team] [date]"
+    echo "  team: kraken (default)"
     echo "  date: Optional date in YYYY-MM-DD format (defaults to today)"
     exit 1
 }
@@ -45,12 +45,8 @@ download_nhl_game() {
         python3 -m json.tool > "$filepath"
 }
 
-# Check arguments
-if [ $# -lt 1 ]; then
-    usage
-fi
-
-team=$1
+# Check arguments and set defaults
+team=${1:-kraken}
 date=${2:-$(date +%Y-%m-%d)}
 
 # Validate team
