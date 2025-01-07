@@ -4,7 +4,7 @@
 # ./src/download_whl.sh  
 
 # Download Thunderbirds game for specific date
-# ./download_whl.sh thunderbirds 2025-01-07
+# ./src/download_whl.sh thunderbirds 2025-01-07
 
 # Constants
 readonly THUNDERBIRDS_TEAM_ID=214
@@ -90,18 +90,22 @@ get_game_id_for_date() {
         -H "Accept: application/json" \
         "$schedule_url")
     
-    echo "Debug: First 200 chars of response: ${schedule_data:0:200}" >&2
-    
-    # Extract game ID for target date using jq
-    local game_id
-    game_id=$(echo "$schedule_data" | jq -r --arg date "$target_date" '.SiteKit.Schedule[] | select(.date_played == $date) | .game_id')
+    # Extract game info for target date using jq
+    local game_info
+    game_info=$(echo "$schedule_data" | jq -r --arg date "$target_date" '.SiteKit.Schedule[] | select(.date_played == $date) | {game_id: .game_id, home_code: .home_team_code, visiting_code: .visiting_team_code}')
 
-    if [ -z "$game_id" ]; then
+    if [ -z "$game_info" ]; then
         log_error "No game found for date ${target_date}"
         return 1
     fi
 
-    echo "$game_id"
+    # Extract individual fields
+    local game_id=$(echo "$game_info" | jq -r '.game_id')
+    local home_code=$(echo "$game_info" | jq -r '.home_code')
+    local visiting_code=$(echo "$game_info" | jq -r '.visiting_code')
+
+    # Return all info in a format we can parse later
+    echo "${game_id}:${visiting_code}:${home_code}"
     return 0
 }
 
@@ -181,30 +185,34 @@ main() {
         usage
     fi
 
-    # Validate date format
-    if ! validate_date "$date"; then
-        usage
-    fi
-
-    echo "Checking for Thunderbirds game data from ${date}..."
-    local game_id
-    game_id=$(get_game_id_for_date "$date")
+    # Get game ID and team codes for date
+    local game_info
+    game_info=$(get_game_id_for_date "$date")
     if [ $? -ne 0 ]; then
         exit 1
     fi
 
-    if [ -z "$game_id" ]; then
-        echo "No Thunderbirds game data was found for ${date}"
-        exit 0
-    fi
+    # Parse game info
+    local game_id=$(echo "$game_info" | cut -d':' -f1)
+    local visiting_code=$(echo "$game_info" | cut -d':' -f2)
+    local home_code=$(echo "$game_info" | cut -d':' -f3)
 
-    if ! download_whl_game "$date" "$game_id"; then
-        log_error "Failed to download game data"
-        exit 1
-    fi
+    # Format date for filename (macOS compatible)
+    local date_formatted=$(echo "$date" | sed 's/-//g')
 
-    echo "Done!"
-    exit 0
+    # Create output directory
+    local output_dir="data/WHL - Western Hockey League/2024-25"
+    mkdir -p "$output_dir"
+
+    # Download game summary
+    local summary_url="https://cluster.leaguestat.com/feed/index.php?feed=gc&game_id=${game_id}&key=${API_KEY}&client_code=whl&lang_code=en&fmt=json&tab=gamesummary"
+    local summary_file="${output_dir}/${date_formatted}-${visiting_code}-vs-${home_code}-${game_id}-gamesummary.json"
+    curl -s "$summary_url" > "$summary_file"
+
+    # Download play by play
+    local pxp_url="https://cluster.leaguestat.com/feed/index.php?feed=gc&game_id=${game_id}&key=${API_KEY}&client_code=whl&lang_code=en&fmt=json&tab=pxpverbose"
+    local pxp_file="${output_dir}/${date_formatted}-${visiting_code}-vs-${home_code}-${game_id}-pxpverbose.json"
+    curl -s "$pxp_url" > "$pxp_file"
 }
 
 # Execute main function with all arguments
