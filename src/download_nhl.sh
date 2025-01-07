@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Download today's Kraken game (if any)
-# ./src/download_nhl.sh kraken  
+# ./src/download_nhl.sh  
 
 # Download Kraken game for specific date
-# ./download_nhl.sh kraken --date 2025-01-06
+# ./download_nhl.sh kraken 2025-01-06
 
 # Constants
 readonly KRAKEN_TEAM_ID=55
