@@ -36,12 +36,19 @@ get_nhl_season() {
 get_game_type_string() {
     local type_id=$1
 
-    # TODO: Keep an eye on this for unexpected type_id
-    if [ "$type_id" = "2" ]; then
-        echo "regular-season"
-    else
-        echo "preseason"
-    fi
+    # TODO: Keep an eye on this for unexpected type_id values
+    case "$type_id" in
+        "2")
+            echo "regular-season"
+            ;;
+        "1")
+            echo "preseason"
+            ;;
+        *)
+            echo "Error: Unknown game type ID: $type_id" >&2
+            exit 1
+            ;;
+    esac
 }
 
 # Fetch and validate JSON data from NHL API
