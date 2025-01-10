@@ -58,3 +58,4 @@ Play-by-play data can be accessed via [https://api-web.nhle.com/v1/gamecenter/20
 - [GAME #39: Vancouver Canucks vs Seattle Kraken - Seattle loses 4-3 in SO](./2024-25/regular-season/20250102-VAN-vs-SEA-2024020613.json)
 - [GAME #40: Edmonton Oilers vs Seattle Kraken - Seattle loses 4-2](./2024-25/regular-season/20250104-EDM-vs-SEA-2024020631.json)
 - [GAME #41: New Jersey Devils vs Seattle Kraken - Seattle loses 3-2](./2024-25/regular-season/20250106-NJD-vs-SEA-2024020640.json)
+- [GAME #42: Seattle Kraken vs Columbus Blue Jackets - Seattle loses 6-2](./2024-25/regular-season/20250109-SEA-vs-CBJ-2024020660.json)
