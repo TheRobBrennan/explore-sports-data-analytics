@@ -60,3 +60,4 @@ Play-by-play data can be accessed via [https://api-web.nhle.com/v1/gamecenter/20
 - [GAME #41: New Jersey Devils vs Seattle Kraken - Seattle loses 3-2](./2024-25/regular-season/20250106-NJD-vs-SEA-2024020640.json)
 - [GAME #42: Seattle Kraken vs Columbus Blue Jackets - Seattle loses 6-2](./2024-25/regular-season/20250109-SEA-vs-CBJ-2024020660.json)
 - [GAME #43: Seattle Kraken vs Buffalo Sabres - Seattle wins 6-2](./2024-25/regular-season/20250111-SEA-vs-BUF-2024020670.json)
+- [GAME #44: Seattle Kraken vs Detroit Red Wings - Seattle loses 6-2](./2024-25/regular-season/20250112-SEA-vs-DET-2024020684.json)
