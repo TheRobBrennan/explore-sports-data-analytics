@@ -63,3 +63,4 @@ Play-by-play data can be accessed via [https://api-web.nhle.com/v1/gamecenter/20
 - [GAME #44: Seattle Kraken vs Detroit Red Wings - Seattle loses 6-2](./2024-25/regular-season/20250112-SEA-vs-DET-2024020684.json)
 - [GAME #45: Seattle Kraken vs Pittsburgh Penguins - Seattle wins 4-2](./2024-25/regular-season/20250114-SEA-vs-PIT-2024020698.json)
 - [GAME #46: Seattle Kraken vs Winnipeg Jets - Seattle loses 2-1](./2024-25/regular-season/20250116-SEA-vs-WPG-2024020716.json)
+- [GAME #47: Los Angeles Kings vs Seattle Kraken - Seattle wins 4-2](./2024-25/regular-season/20250118-LAK-vs-SEA-2024020736.json)
