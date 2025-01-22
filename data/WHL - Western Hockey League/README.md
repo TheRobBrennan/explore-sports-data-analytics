@@ -59,3 +59,4 @@ Play By Play:
 - [GAME #41: 2025.01.11 Seattle wins 5-4 against Everett in SO](./2024-25/20250111-EVT-vs-SEA-1021632-pxpverbose.json)
 - [GAME #42: 2025.01.17 Seattle wins 4-3 against Kelowna in OT](./2024-25/20250117-SEA-vs-KEL-1021647-pxpverbose.json)
 - [GAME #43: 2025.01.18 Seattle loses 5-2 against Kelowna](./2024-25/20250118-KEL-vs-SEA-1021660-pxpverbose.json)
+- [GAME #44: 2025.01.21 Seattle wins 7-1 against Vancouver](./2024-25/20250121-VAN-vs-SEA-1021671-pxpverbose.json)
