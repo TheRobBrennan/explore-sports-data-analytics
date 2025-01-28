@@ -67,3 +67,4 @@ Play-by-play data can be accessed via [https://api-web.nhle.com/v1/gamecenter/20
 - [GAME #48: Buffalo Sabres vs Seattle Kraken - Seattle wins 6-4](./2024-25/regular-season/20250120-BUF-vs-SEA-2024020742.json)
 - [GAME #49: Washington Capitals vs Seattle Kraken - Seattle loses 3-0](./2024-25/regular-season/20250123-WSH-vs-SEA-2024020770.json)
 - [GAME #50: Pittsburgh Penguins vs Seattle Kraken - Seattle wins 4-1](./2024-25/regular-season/20250125-PIT-vs-SEA-2024020778.json)
+- [GAME #51: Seattle Kraken vs Edmonton Oilers - Seattle loses 4-2](./2024-25/regular-season/20250127-SEA-vs-EDM-2024020797.json)
