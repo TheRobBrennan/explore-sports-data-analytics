@@ -69,3 +69,4 @@ Play-by-play data can be accessed via [https://api-web.nhle.com/v1/gamecenter/20
 - [GAME #50: Pittsburgh Penguins vs Seattle Kraken - Seattle wins 4-1](./2024-25/regular-season/20250125-PIT-vs-SEA-2024020778.json)
 - [GAME #51: Seattle Kraken vs Edmonton Oilers - Seattle loses 4-2](./2024-25/regular-season/20250127-SEA-vs-EDM-2024020797.json)
 - [GAME #52: Anaheim Ducks vs Seattle Kraken - Seattle loses 6-4](./2024-25/regular-season/20250128-ANA-vs-SEA-2024020806.json)
+- [GAME #53: San Jose Sharks vs Seattle Kraken - Seattle wins 6-2](./2024-25/regular-season/20250130-SJS-vs-SEA-2024020821.json)
