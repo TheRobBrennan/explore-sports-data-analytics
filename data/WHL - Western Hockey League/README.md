@@ -63,3 +63,4 @@ Play By Play:
 - [GAME #45: 2025.01.24 Seattle wins 4-1 against Victoria](./2024-25/20250124-VIC-vs-SEA-1021682-pxpverbose.json)
 - [GAME #46: 2025.01.25 Seattle loses 6-1 against Everett](./2024-25/20250125-SEA-vs-EVT-1021685-pxpverbose.json)
 - [GAME #47: 2025.01.31 Seattle wins 5-2 against Vancouver](./2024-25/20250131-VAN-vs-SEA-1021715-pxpverbose.json)
+- [GAME #48: 2025.02.01 Seattle wins 4-3 against Medicine Hat in eleven round SO](./2024-25/20250201-MH-vs-SEA-1021725-pxpverbose.json)
