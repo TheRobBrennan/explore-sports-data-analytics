@@ -73,3 +73,4 @@ Play-by-play data can be accessed via [https://api-web.nhle.com/v1/gamecenter/20
 - [GAME #54: Calgary Flames vs Seattle Kraken - Seattle loses 3-2](./2024-25/regular-season/20250202-CGY-vs-SEA-2024020843.json)
 - [GAME #55: Detroit Red Wings vs Seattle Kraken - Seattle loses 5-4 in SO](./2024-25/regular-season/20250204-DET-vs-SEA-2024020857.json)
 - [GAME #56: Toronto Maple Leafs vs Seattle Kraken - Seattle loses 3-1](./2024-25/regular-season/20250206-TOR-vs-SEA-2024020869.json)
+- [GAME #57: Seattle Kraken vs Calgary Flames - Seattle wins 3-2 in OT](./2024-25/regular-season/20250208-SEA-vs-CGY-2024020887.json)
