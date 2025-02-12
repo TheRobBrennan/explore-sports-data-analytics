@@ -66,3 +66,4 @@ Play By Play:
 - [GAME #48: 2025.02.01 Seattle wins 4-3 against Medicine Hat in eleven round SO](./2024-25/20250201-MH-vs-SEA-1021725-pxpverbose.json)
 - [GAME #49: 2025.02.07 Seattle loses 9-1 against Spokane](./2024-25/20250207-SPO-vs-SEA-1021745-pxpverbose.json)
 - [GAME #50: 2025.02.08 Seattle wins 4-3 against Portland](./2024-25/20250208-SEA-vs-POR-1021752-pxpverbose.json)
+- [GAME #51: 2025.02.11 Seattle wins 3-2 against Kelowna](./2024-25/20250211-KEL-vs-SEA-1021762-pxpverbose.json)
