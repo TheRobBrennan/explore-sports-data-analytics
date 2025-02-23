@@ -71,3 +71,4 @@ Play By Play:
 - [GAME #53: 2025.02.16 Seattle wins 4-0 against Wenatchee](./2024-25/20250216-SEA-vs-WEN-1021788-pxpverbose.json)
 - [GAME #54: 2025.02.17 Seattle loses 4-3 against Portland](./2024-25/20250217-SEA-vs-POR-1021793-pxpverbose.json)
 - [GAME #55: 2025.02.21 Seattle loses 2-1 against Wenatchee in OT](./2024-25/20250221-SEA-vs-WEN-1021812-pxpverbose.json)
+- [GAME #56: 2025.02.22 Seattle wins 3-1 against Everett](./2024-25/20250222-EVT-vs-SEA-1021817-pxpverbose.json)
